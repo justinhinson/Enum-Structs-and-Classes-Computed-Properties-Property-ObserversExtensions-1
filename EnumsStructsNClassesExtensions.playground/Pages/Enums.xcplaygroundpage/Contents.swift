@@ -1,5 +1,23 @@
 import Foundation
-
+/*:
+ [Table Of Contents](TableOfContents) | [Previous Playground Page](@previous) | [Next Playground Page](@next)
+ # Enums (enumerations)
+ 
+ ## Outcomes:
+ - You should be able to use an Enum that someone else has defined.  The most typical use of this by a methods built into Swift/iOS will be to return an enum to you (or use as a 'dial' to choose how the method should act)
+ - Use your enums with a switch (or if/else if) statement.
+ - Be able to define your own enums
+ - Find, organize, and share useful resources on this topic
+ 
+ ### Warning: There's a lot of details about enums you can ignore
+ Some examples:
+ * Iterating over an enumeration
+ * Associated Values - Using enums as a discriminated union (giving them values)
+ * Raw Values - like in C, etc
+ 
+ ## Using someone else's enum; using an enum with a switch
+ 1. Before looking through the following code please look through the [very, very brief documentation about the ComparisonResult enum](https://developer.apple.com/documentation/foundation/comparisonresult).  Use what you read there to inform your guesses/answers for the rest of this section
+ */
 func PrintComparisonResult( _ result: ComparisonResult) {
     switch (result) {
     case ComparisonResult.orderedSame:
