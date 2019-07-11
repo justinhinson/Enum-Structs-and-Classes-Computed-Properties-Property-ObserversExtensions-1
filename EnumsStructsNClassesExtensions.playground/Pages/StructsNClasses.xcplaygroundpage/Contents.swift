@@ -89,7 +89,7 @@ struct Person {
 print("\nSame program, this time with structs/classes: ======================")
 
 var Mary = Person("Mary", "Smithers", 23, "Likes broccoli")
-var Mark = Person("Mary", "Smithers", 23, "Likes broccoli")
+var Mark = Person("Mark", "Smith", 38, "Likes radishes")
 
 print( "Made two Person objects / instances")
 
