@@ -1,6 +1,6 @@
 import Foundation
 /*:
-[Table Of Contents](TableOfContents) | [Previous Playground Page](@previous) | [Next Playground Page](@next)
+[Table Of Justin](TableOfContents) | [Previous Playground Page](@previous) | [Next Playground Page](@next)
 # Computed Properties and Property Observers
 
  ## Outcomes
