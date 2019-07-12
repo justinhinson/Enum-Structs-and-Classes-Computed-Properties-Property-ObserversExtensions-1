@@ -1,4 +1,5 @@
 import Foundation
+//Hello Daniela added a new comment 
 /*:
  [Table Of Contents](TableOfContents) | [Previous Playground Page](@previous) | [Next Playground Page](@next)
  # Structs & Classes
