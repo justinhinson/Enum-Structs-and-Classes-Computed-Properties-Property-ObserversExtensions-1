@@ -1,7 +1,7 @@
 // Go to Editor -> Show Rendered Markup to see this in the 'nice' version
 
 /*:
- # Table Of Contents
+ # Table Of Contents //TABLE OF CONTENTS
 
  1. [Enums](Enums)
  2. [Structs and Classes](StructsNClasses)
