@@ -1,4 +1,6 @@
 import Foundation
+
+//This message is from Ying
 /*:
  [Table Of Contents](TableOfContents) | [Previous Playground Page](@previous) | [Next Playground Page](@next)
  # Enums (enumerations)
